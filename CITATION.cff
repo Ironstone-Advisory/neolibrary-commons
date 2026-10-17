@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this corpus, cite it as below and keep the Grey Swan Guild attribution."
+title: "NeoLibrary Commons: the Grey Swan Guild test corpus"
+type: dataset
+authors:
+  - name: "Grey Swan Guild contributors"
+    website: "https://greyswanguild.org"
+  - family-names: Tyrie
+    given-names: Rob
+    affiliation: Ironstone Advisory
+    website: "https://ironstoneadvisory.com"
+repository-code: "https://github.com/Ironstone-Advisory/neolibrary-commons"
+license: CC-BY-4.0
+date-released: 2026-10-17
+keywords: [NeoLibrary, Grey Swan Guild, corpus, uncertainty, foresight]

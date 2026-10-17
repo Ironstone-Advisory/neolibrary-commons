@@ -1,5 +1,7 @@
 # NeoLibrary Commons
 
+*Curated by Rob Tyrie, Ironstone Advisory · [ironstoneadvisory.com](https://ironstoneadvisory.com) · [@robtyrie](https://github.com/robtyrie)*
+
 **The open test dataset for [NeoLibrary](https://github.com/Ironstone-Advisory/neolibrary): the Grey Swan Guild sessions corpus.**
 
 NeoLibrary is the engine. This repo is the first dataset it is built and tested against. Content here belongs to its original authors and is shared under Creative Commons Attribution 4.0 (CC BY 4.0).
@@ -50,4 +52,4 @@ First item loaded: *The Uncertain Edge* workbook (April 2025). Sessions are bein
 
 ## License
 
-Content: [CC BY 4.0](LICENSE). The NeoLibrary engine itself is Apache 2.0 and lives in a separate repo.
+Content: [CC BY 4.0](LICENSE). To cite the corpus, use [CITATION.cff](CITATION.cff). The NeoLibrary engine itself is Apache 2.0 and lives in a separate repo.
