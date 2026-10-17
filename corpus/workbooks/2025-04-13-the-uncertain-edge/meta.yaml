@@ -1,0 +1,14 @@
+title: "The Uncertain Edge: A Workbook about Uncertainty from the Grey Swan Guild"
+date: 2025-04-13
+speakers:
+  - Rob Tyrie (synthesis)
+  - Chuck Metz (ideas)
+  - Denise Tsang (ideas)
+source_url: "https://greyswanguild.org/"
+license: CC-BY-4.0
+changes:
+  - removed AI-generated price line
+  - removed AI-invented editor and contributor credits
+  - added attribution block
+sha256: "92d7488b55d0d801fb6ae3dc1905861a4784c3879ddcdcc412d98464e19e7497"
+tags: [uncertainty, complexity, decision-making, workbook]

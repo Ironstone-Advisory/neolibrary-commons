@@ -16,6 +16,7 @@ Individual items keep their own author and session credits in their metadata.
 
 ```
 corpus/
+  workbooks/     longer synthesized works: YYYY-MM-DD-slug/
   sessions/      one folder per session: YYYY-MM-DD-slug/
     item.md      the content (transcript, notes, summary)
     meta.yaml    title, date, speakers, source URL, license, changes made
@@ -45,7 +46,7 @@ schema/
 
 ## Status
 
-Structure only. Items are being loaded in batches.
+First item loaded: *The Uncertain Edge* workbook (April 2025). Sessions are being loaded in batches.
 
 ## License
 
