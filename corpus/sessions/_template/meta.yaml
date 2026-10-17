@@ -1,0 +1,11 @@
+# Copy this folder to corpus/sessions/YYYY-MM-DD-slug/ and fill in every field.
+title: ""
+date: 2024-01-01
+speakers:
+  - ""
+source_url: "https://greyswanguild.org/"
+license: CC-BY-4.0
+changes:
+  - transcribed
+sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+tags: []

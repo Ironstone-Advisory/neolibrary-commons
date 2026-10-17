@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NeoLibrary Commons item metadata",
+  "type": "object",
+  "required": ["title", "date", "speakers", "source_url", "license", "changes", "sha256"],
+  "properties": {
+    "title": { "type": "string" },
+    "date": { "type": "string", "format": "date" },
+    "speakers": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "source_url": { "type": "string", "format": "uri" },
+    "license": { "const": "CC-BY-4.0" },
+    "changes": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "tags": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}
